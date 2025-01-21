@@ -2,9 +2,9 @@
 
 # -- Project information
 
-project = 'Gratuity UAE'
-copyright = '2025, Sayeed'
-author = 'Sayeed'
+project = 'Audiko'
+copyright = '2025, Alexander'
+author = 'Alexander'
 
 release = '1.5'
 version = '1.5.0'
