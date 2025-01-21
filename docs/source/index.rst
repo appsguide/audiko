@@ -1,93 +1,96 @@
-.. meta::
-    :google-site-verification lang=en:
-        MTdDoNVXOS0cgtx8z-Dg4s1vvP2Cqb2XE0nrdgfcm4E
+Technical Documentation: Downloading and Using Ringtones from Audiko
+===============================================================
 
-How to Calculate Gratuity Salary in the UAE
-===========================================
+1. Overview
+------------
+Fine brush to only listen to the digital chimes and melody, you have yet to explore Audiko. Hidden within its depths is a treasure trove of ringtones each a unique symphony. Don't be afraid because I shall reveal how to unlock these sonic delights and grace your device's screen with their sweet sounds. Step by step, as you follow me, let’s go on an auditory adventure together!
 
-Gratuity is an end-of-service benefit paid to employees in the UAE. The calculation depends on the employee's length of service and basic salary. Below is a detailed explanation of the calculation process:
+2. Prerequisites
+----------------
+- A device with internet access (smartphone, tablet, or PC).
+- A valid browser to navigate to the Audiko website.
+- Sufficient storage space on your device.
+- (Optional) A compatible app or file management tool for transferring ringtones to specific folders if required.
 
-1. Determine the Length of Service
-----------------------------------
+3. Accessing Ringtones on Audiko
+-------------------------------
 
-- **Less than 1 year**: No gratuity is payable.
-- **1-5 years**: Gratuity is based on 21 days of basic salary for each year of service.
-- **More than 5 years**: Gratuity is based on:
-  - 21 days of basic salary for the first 5 years, and
-  - 30 days of basic salary for each additional year of service.
+3.1. Navigating to a Ringtone Page
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+To access a specific ringtone:
 
-2. Calculate Daily Wage
+1. Open your browser and navigate to one of the following URLs:
+  
+   - Wellerman: `https://m.audiko.com/ringtone/wellerman?ring=44722421`
+   - Ed Sheeran – Bad Habits: `https://m.audiko.com/ringtone/ed-sheeran-bad-habits?ring=44837983`
+   - Nathan Evans – Wellerman: `https://m.audiko.com/ringtone/nathan-evans-wellerman?ring=44783815`
+
+2. Review the details of the ringtone on the page to confirm your selection.
+
+4. Downloading the Ringtone
+---------------------------
+
+4.1. Direct Download
+^^^^^^^^^^^^^^^^^^^^
+
+1. On the ringtone page, locate the **Download** or **Get Ringtone** button.
+2. Click or tap the button to start the download.
+3. If prompted, choose a folder to save the ringtone file.
+4. Verify that the file has been saved correctly by checking your device’s download folder.
+
+4.2. Membership Requirements
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+Some ringtones on Audiko may require a premium membership to download:
+- Follow the prompts to sign up or log in to your account.
+- Purchase a membership if required.
+
+5. Setting Up the Ringtone on Your Device
+-----------------------------------------
+
+5.1. For Android Devices
+^^^^^^^^^^^^^^^^^^^^^^^^
+
+1. Locate the downloaded ringtone file in your file manager.
+2. Move or copy the file to the **Ringtones** folder (typically located in the internal storage).
+3. Go to **Settings > Sound & vibration > Ringtone**.
+4. Select the downloaded ringtone from the list.
+
+5.2. For iOS Devices
+^^^^^^^^^^^^^^^^^^^^
+
+1. Import the ringtone into iTunes on your PC or Mac.
+2. Connect your iPhone to your computer.
+3. Sync the ringtone to your device:
+   - Drag the file to the **Tones** section in iTunes.
+   - Sync your device to add the file.
+4. Go to **Settings > Sounds & Haptics > Ringtone** on your iPhone.
+5. Select the imported ringtone.
+
+6. Troubleshooting
+------------------
+
+6.1. Download Issues
+^^^^^^^^^^^^^^^^^^^^
+
+- Ensure a stable internet connection.
+- Confirm sufficient storage space on your device.
+- Retry the download if the connection was interrupted.
+
+6.2. File Compatibility
+^^^^^^^^^^^^^^^^^^^^^^^
+
+- Ensure the file format (e.g., .mp3 or .m4r) is supported by your device.
+- Use a file converter if necessary to change the file format.
+
+6.3. Ringtone Not Appearing
+^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+- Restart your device after adding the ringtone file.
+- Verify the file location (ensure it’s in the correct folder).
+
+7. Additional Resources
 -----------------------
 
-To calculate the daily wage, divide the employee's monthly basic salary by 30:
-
-.. math::
-
-   Daily Wage = \frac{\text{Monthly Basic Salary}}{30}
-
-3. Calculate Gratuity Amount
-----------------------------
-
-- **1-5 years of service**:
-
-  .. math::
-
-     Gratuity = \frac{\text{Daily Wage} \times 21 \times \text{Years of Service}}{30}
-
-- **More than 5 years of service**:
-  - Gratuity for the first 5 years:
-
-    .. math::
-
-       Gratuity_{5\ years} = \frac{\text{Daily Wage} \times 21 \times 5}{30}
-
-  - Gratuity for the additional years:
-
-    .. math::
-
-       Gratuity_{additional} = \frac{\text{Daily Wage} \times 30 \times \text{Additional Years}}{30}
-
-  - Total Gratuity:
-
-    .. math::
-
-       Total\ Gratuity = Gratuity_{5\ years} + Gratuity_{additional}
-
-Numerical Simulation
----------------------
-
-**Example 1:**
-
-- **Basic monthly salary**: AED 10,000
-- **Years of service**: 3 years
-
-Steps:
-- Daily Wage: :math:`10,000 / 30 = 333.33`
-- Gratuity: :math:`(333.33 \times 21 \times 3) / 30 = 7,000`
-
-**Result**: Gratuity amount is **AED 7,000**.
-
-**Example 2:**
-
-- **Basic monthly salary**: AED 15,000
-- **Years of service**: 7 years
-
-Steps:
-- Daily Wage: :math:`15,000 / 30 = 500`
-- Gratuity for first 5 years: :math:`(500 \times 21 \times 5) / 30 = 17,500`
-- Gratuity for remaining 2 years: :math:`(500 \times 30 \times 2) / 30 = 10,000`
-- Total Gratuity: :math:`17,500 + 10,000 = 27,500`
-
-**Result**: Gratuity amount is **AED 27,500**.
-
-Important Notes
----------------
-
-- The maximum gratuity payable is equivalent to two years of the employee's basic salary.
-- This information is for general guidance only. Consult with an HR professional or legal expert for specific advice.
-
-.. toctree::
-   :maxdepth: 2
-   :caption: Salary Simulation
-
-   example/index
+- Visit the Audiko FAQ page for further assistance: `audiko.com/faq`
+- Contact Audiko support: `audiko.com/support`
+- Ringtone collection: `https://www.technolati.com`
