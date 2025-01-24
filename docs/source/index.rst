@@ -93,4 +93,4 @@ Some ringtones on Audiko may require a premium membership to download:
 
 - Visit the Audiko FAQ page for further assistance: `audiko.com/faq`
 - Contact Audiko support: `audiko.com/support`
-- Ringtone collection: `https://www.technolati.com`
+- Ringtone collection: https://www.technolati.com
